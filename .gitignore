@@ -1,0 +1,10 @@
+# Ignore all files
+*.*
+
+# Except
+!out.txt
+!.gitignore
+!README.md
+package.json
+License/libogg/COPYING
+License/libvorbis/COPYING
