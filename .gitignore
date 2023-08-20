@@ -4,6 +4,9 @@
 # Except
 !out.txt
 !*.ain
+!Tsumamigui3.ain
+!Tsumamigui3.ex
+!Tsumamigui3Font.fnl
 !alice.exe
 !.gitignore
 !README.md
